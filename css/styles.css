@@ -130,3 +130,8 @@ body {
   width: 200px;
   border-radius: 50%;
 }
+
+.cl-text2 {
+  height: 25rem;
+  text-align: left;
+}
